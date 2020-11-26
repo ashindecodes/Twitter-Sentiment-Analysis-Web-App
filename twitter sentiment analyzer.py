@@ -49,11 +49,11 @@ https://www.youtube.com/watch?v=ujId4ipkBio&feature=emb_logo
 
 # Twitter Credentials
 
-consumer_key = 'jDvT8Ydto8ABvgx0JsNqcOZsS'
-consumer_secret = 'OTZkuey2d0YNxHIWZDp5O6vZ7A1bhod7KZzf1eOXV1Qxi8OwxG'
+consumer_key = ##############
+consumer_secret = #############
 
-access_token = '1249542581660323845-JUclgVDUla2o1S0evqsi9C0sRsRWxF'
-access_token_secret = 'FKMJkElmc0tFuGYYDxKCjKa6g6l2OFPL31sHfPZRiOn8v'
+access_token = ##############
+access_token_secret = ##############
 
 
 # In[6]:
