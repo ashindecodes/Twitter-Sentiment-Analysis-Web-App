@@ -22,31 +22,6 @@ import seaborn as sns
 
 # In[ ]:
 
-
-https://medium.com/python-in-plain-english/scraping-tweets-with-tweepy-python-59413046e788
-
-
-# In[ ]:
-
-
-https://github.com/harit198/Tweet-Analyzer/blob/master/app.py
-
-
-# In[ ]:
-
-
-https://www.youtube.com/watch?v=MqIw68fEq1k
-
-
-# In[ ]:
-
-
-https://www.youtube.com/watch?v=ujId4ipkBio&feature=emb_logo
-
-
-# In[5]:
-
-
 # Twitter Credentials
 
 consumer_key = ##############
@@ -209,68 +184,16 @@ Twitter Sentiment Analyzer Functions
 # Histogram for Word Count - sns.distplot()
 
 
-# In[22]:
-
-
-df1
-
-
-# In[ ]:
-
-
-
-# Lowercase
-# Removing '@....' , 'https://.....' ,  '#.....' i.e. Remove ‘RT’, UserMentions and links
-      "RT.....:"
-# Remove numbers
-# Remove Hashtags, urls, mentions and @ from the tweets
-    
-# Removing spaces  
-    https://www.youtube.com/watch?v=Otde6VGvhWM&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=11
-
-#Remove punctuation marks and special characters
-
-#Removing stopwords
-
-
-# In[23]:
-
-
-df1['Tweets']
-
-
-# In[ ]:
-
-
-# Removing urls
-tw = [re.sub(r'http\S+', '', x)for x in df1['Tweets']]
-
-for i in df1['Tweets']:
-    
-    
-
-
-# In[ ]:
-
-
-
-
-
 # In[24]:
 
 
 import nltk
-from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from textblob import TextBlob
 import re
 
 
 # In[ ]:
-
-
-# Remove Stopwords & Lemmitization
-
 
 # # ---------------------------------------------------------------------------------------------------------------
 
