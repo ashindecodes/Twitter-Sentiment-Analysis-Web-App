@@ -5,4 +5,4 @@ This is a Twitter Sentiment Analysis Web App.
 
 ![](twitter_app_gif.gif)
 
-https://www.youtube.com/watch?v=-OrhQRZELeA
+![](https://www.youtube.com/watch?v=-OrhQRZELeA)
